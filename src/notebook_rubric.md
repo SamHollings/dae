@@ -20,16 +20,16 @@
 
 **Inputs**:
 - **parameters**
-- describe any parameters expected by the notebook
+  - describe any parameters expected by the notebook
 - **tables**
-- describe tables that are consumed
+  - describe tables that are consumed
 
 **Outputs**:
 - **notebook exit**
-- descibe if anything is output with dbutils.notebook.exit(...)
+  - descibe if anything is output with dbutils.notebook.exit(...)
 - **tables**
-- describe and tables are produced
+  - describe and tables are produced
 - **functions**
-- desribe any functions, classes (and methods)
+  - desribe any functions, classes (and methods)
 
 **Software and versions**: DBR6.6
